@@ -1,0 +1,11 @@
+model practica.mod;
+data practica.dat;
+
+option solver cbc;  
+
+option cbc_options 'seconds=60';  
+
+solve;
+
+display {i in INTERSECTIONS: x[i] == 1};  
+display TotalFlow;  

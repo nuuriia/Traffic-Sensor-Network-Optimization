@@ -1,0 +1,9 @@
+model 2.mod;
+data 2.dat;
+
+option solver cbc;  
+solve;
+
+
+display {i in INTERSECTIONS: x[i] == 1}; 
+display TotalFlow;
