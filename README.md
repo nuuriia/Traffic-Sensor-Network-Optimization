@@ -42,7 +42,3 @@ The project is implemented in **AMPL** (A Mathematical Programming Language) and
 
 ## Results
 The optimization successfully identified the critical intersections to monitor. While the base model achieved a total captured flow of **~350.73**, the inclusion of the 300m safety distance in Phase B resulted in a negligible decrease in flow (**~350.18**), proving that a technically robust network can be achieved without sacrificing significant detection capacity.
-
-## Authors
-* **Mariona Casasnovas Simón**
-* **Núria López Encinas**
