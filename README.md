@@ -21,7 +21,7 @@ The project is implemented in **AMPL** (A Mathematical Programming Language) and
 * **`practica.mod` / `2.mod`**: Model files containing the algebraic formulation and constraints.
 * **`practica.dat` / `2.dat`**: Data files containing the intersection sets, paths, traffic flows, and distance-based neighborhood edges.
 * **`practica.run` / `2.run`**: Script files to automate the loading, solving, and result display process.
-* **`informe.pdf`**: Final technical report containing the mathematical proofs, implementation details, and result analysis.
+* **`informe practica 2 modelització.pdf`**: Final technical report containing the mathematical proofs, implementation details, and result analysis.
 
 ## How to Use
 ### Software Requirements
